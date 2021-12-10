@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Computers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Computerss>
+    <Computer>
+      <COMPUTER>Acer</COMPUTER>
+      <RAM_Count>16</RAM_Count>
+      <GPU_Name>Nvidia GTX 1050TI</GPU_Name>
+      <CPU_Name>Intel Core i7</CPU_Name>
+    </Computer>
+    <Computer>
+      <COMPUTER>Dell</COMPUTER>
+      <RAM_Count>32</RAM_Count>
+      <GPU_Name>Nvidia GTX 1070TI</GPU_Name>
+      <CPU_Name>Intel Core i5</CPU_Name>
+    </Computer>
+    <Computer>
+      <COMPUTER>AsusRog</COMPUTER>
+      <RAM_Count>64</RAM_Count>
+      <GPU_Name>Nvidia GTX 1080TI</GPU_Name>
+      <CPU_Name>Intel Core i9</CPU_Name>
+    </Computer>
+  </Computerss>
+</Computers>

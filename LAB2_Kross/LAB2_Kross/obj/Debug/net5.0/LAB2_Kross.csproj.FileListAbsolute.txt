@@ -1,0 +1,16 @@
+C:\Users\Home Nout\source\repos\UNI\LAB2_Kross\LAB2_Kross\bin\Debug\net5.0\LAB2_Kross.exe
+C:\Users\Home Nout\source\repos\UNI\LAB2_Kross\LAB2_Kross\bin\Debug\net5.0\LAB2_Kross.deps.json
+C:\Users\Home Nout\source\repos\UNI\LAB2_Kross\LAB2_Kross\bin\Debug\net5.0\LAB2_Kross.runtimeconfig.json
+C:\Users\Home Nout\source\repos\UNI\LAB2_Kross\LAB2_Kross\bin\Debug\net5.0\LAB2_Kross.runtimeconfig.dev.json
+C:\Users\Home Nout\source\repos\UNI\LAB2_Kross\LAB2_Kross\bin\Debug\net5.0\LAB2_Kross.dll
+C:\Users\Home Nout\source\repos\UNI\LAB2_Kross\LAB2_Kross\bin\Debug\net5.0\ref\LAB2_Kross.dll
+C:\Users\Home Nout\source\repos\UNI\LAB2_Kross\LAB2_Kross\bin\Debug\net5.0\LAB2_Kross.pdb
+C:\Users\Home Nout\source\repos\UNI\LAB2_Kross\LAB2_Kross\obj\Debug\net5.0\LAB2_Kross.csproj.AssemblyReference.cache
+C:\Users\Home Nout\source\repos\UNI\LAB2_Kross\LAB2_Kross\obj\Debug\net5.0\LAB2_Kross.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home Nout\source\repos\UNI\LAB2_Kross\LAB2_Kross\obj\Debug\net5.0\LAB2_Kross.AssemblyInfoInputs.cache
+C:\Users\Home Nout\source\repos\UNI\LAB2_Kross\LAB2_Kross\obj\Debug\net5.0\LAB2_Kross.AssemblyInfo.cs
+C:\Users\Home Nout\source\repos\UNI\LAB2_Kross\LAB2_Kross\obj\Debug\net5.0\LAB2_Kross.csproj.CoreCompileInputs.cache
+C:\Users\Home Nout\source\repos\UNI\LAB2_Kross\LAB2_Kross\obj\Debug\net5.0\LAB2_Kross.dll
+C:\Users\Home Nout\source\repos\UNI\LAB2_Kross\LAB2_Kross\obj\Debug\net5.0\ref\LAB2_Kross.dll
+C:\Users\Home Nout\source\repos\UNI\LAB2_Kross\LAB2_Kross\obj\Debug\net5.0\LAB2_Kross.pdb
+C:\Users\Home Nout\source\repos\UNI\LAB2_Kross\LAB2_Kross\obj\Debug\net5.0\LAB2_Kross.genruntimeconfig.cache
